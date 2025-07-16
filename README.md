@@ -1,6 +1,11 @@
 # Active Directory Domain Services (AD DS) Project  
 > Windows Server 2019 Enterprise Network Lab  
 
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=104jA5QZKy0Yegh0wV4tk9DAFbtJtKoDE" alt="AD DS Project Poster" width="300"/>
+</p>
+
+
 This project demonstrates a complete enterprise-level Active Directory setup using Windows Server 2019. It includes DHCP configuration, Group Policies, Single Sign-On (SSO), Fine-Grained Password Policies (FGPP), and centralized user and device management.
 
 ---
